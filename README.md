@@ -1,2 +1,2 @@
-# Aprendizagem-Autom-tica
+# Aprendizagem-Automática
 My works 
